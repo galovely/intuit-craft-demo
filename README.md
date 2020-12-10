@@ -26,6 +26,17 @@ A frontend Framework for building data-driven applications running in the browse
 * Super easy to extend and override (it's just React components)
 * Can be included in another React app
 
+## Libraries used
+* React Router
+* React Redux
+* Material UI
+* Rest (Rest API call)
+* Data JSON Server (retrieve the dummy data)
+* Local Storage (Persistent local storage)
+* Apollo Data GraphQL (query the API data)
+* ReChart for the graphs
+* Data Provider for fetch mock data and data generator retail 
+
 ## Installation
 
 React-admin is available from npm. You can install it (and its required dependencies)
