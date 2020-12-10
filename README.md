@@ -26,7 +26,7 @@ A frontend Framework for building data-driven applications running in the browse
 * Super easy to extend and override (it's just React components)
 * Can be included in another React app
 
-## Libraries used
+## Libraries dependencies used
 * React Router
 * React Redux
 * Material UI
@@ -56,13 +56,6 @@ You can run those example applications by calling:
 make install
 # or
 yarn install
-
-# Run the simple application
-make run-simple
-
-# Run the tutorial application
-make build
-make run-tutorial
 
 # Run the demo application
 make build
